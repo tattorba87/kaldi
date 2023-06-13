@@ -16,7 +16,7 @@ BINFILES = add-deltas add-deltas-sdc append-post-to-feats \
            modify-cmvn-stats paste-feats post-to-feats \
            process-kaldi-pitch-feats process-pitch-feats \
            select-feats shift-feats splice-feats subsample-feats \
-           subset-feats transform-feats wav-copy wav-reverberate \
+           subset-feats transform-feats wav-copy wav-reverberate  laughter-test-analysis \
            wav-to-duration
 
 OBJFILES =

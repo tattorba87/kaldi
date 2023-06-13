@@ -1,0 +1,8 @@
+<AffineTransform> <InputDim> 819 <OutputDim> 256 <BiasMean> -2.000000 <BiasRange> 4.000000 <ParamStddev> 0.043580 <MaxNorm> 0.000000 
+<ParametricRelu> <InputDim> 256 <OutputDim> 256 <AlphaLearnRateCoef> 1.0 <BetaLearnRateCoef> 0.75
+<AffineTransform> <InputDim> 256 <OutputDim> 256 <BiasMean> -2.000000 <BiasRange> 4.000000 <ParamStddev> 0.218750 <MaxNorm> 0.000000 
+<ParametricRelu> <InputDim> 256 <OutputDim> 256 <AlphaLearnRateCoef> 1.0 <BetaLearnRateCoef> 0.75
+<AffineTransform> <InputDim> 256 <OutputDim> 256 <BiasMean> -2.000000 <BiasRange> 4.000000 <ParamStddev> 0.218750 <MaxNorm> 0.000000 
+<ParametricRelu> <InputDim> 256 <OutputDim> 256 <AlphaLearnRateCoef> 1.0 <BetaLearnRateCoef> 0.75
+<AffineTransform> <InputDim> 256 <OutputDim> 2 <BiasMean> 0.000000 <BiasRange> 0.000000 <ParamStddev> 0.308158 <LearnRateCoef> 1.000000 <BiasLearnRateCoef> 0.100000
+<Softmax> <InputDim> 2 <OutputDim> 2
